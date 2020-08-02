@@ -1,3 +1,4 @@
 ﻿  main.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
-C:\Server\data\htdocs\codewars\8kyu\cpp\ArrayPlusArray\Debug\ArrayPlusArray.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+C:\Server\data\htdocs\codewars\8kyu\cpp\ArrayPlusArray\ArrayPlusArray\main.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Server\data\htdocs\codewars\8kyu\cpp\ArrayPlusArray\ArrayPlusArray\main.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ArrayPlusArray.vcxproj -> C:\Server\data\htdocs\codewars\8kyu\cpp\ArrayPlusArray\Debug\ArrayPlusArray.exe
