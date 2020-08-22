@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Server\data\htdocs\codewars\8kyu\cpp\Returning_Strings\Returning_Strings\main.cpp(9,31): error C2601: greet: недопустимые локальные определения функций
+C:\Server\data\htdocs\codewars\8kyu\cpp\Returning_Strings\Returning_Strings\main.cpp(6): message : эта строка содержит скобку "{", которая пока не имеет парной
