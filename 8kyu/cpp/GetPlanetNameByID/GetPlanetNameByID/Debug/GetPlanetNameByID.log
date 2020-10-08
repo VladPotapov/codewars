@@ -1,2 +1,2 @@
 ﻿  main.cpp
-C:\Server\data\htdocs\codewars\8kyu\cpp\GetPlanetNameByID\GetPlanetNameByID\main.cpp(15,25): error C2065: id: необъявленный идентификатор
+  GetPlanetNameByID.vcxproj -> C:\Server\data\htdocs\codewars\8kyu\cpp\GetPlanetNameByID\Debug\GetPlanetNameByID.exe

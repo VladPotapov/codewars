@@ -33,4 +33,8 @@ def get_count5(input_str):
     return sum([i in list('aoeiuAOEIU') for i in input_str])
 
 
-print(get_count5("TralyalyaUs Mikimaus"))
+def get_count6(input_str):
+    return sum(c in 'aoeiuAOEIU' for c in input_str)
+
+
+print(get_count6("TralyalyaUs Mikimaus"))

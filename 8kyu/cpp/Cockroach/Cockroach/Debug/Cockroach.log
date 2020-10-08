@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Server\data\htdocs\codewars\8kyu\cpp\Cockroach\Cockroach\main.cpp(14,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Server\data\htdocs\codewars\8kyu\cpp\Cockroach\Cockroach\main.cpp(19,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Server\data\htdocs\codewars\8kyu\cpp\Cockroach\Cockroach\main.cpp(24,21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Server\data\htdocs\codewars\8kyu\cpp\Cockroach\Cockroach\main.cpp(28,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Server\data\htdocs\codewars\8kyu\cpp\Cockroach\Cockroach\main.cpp(36,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Cockroach.vcxproj -> C:\Server\data\htdocs\codewars\8kyu\cpp\Cockroach\Debug\Cockroach.exe

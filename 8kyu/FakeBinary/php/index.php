@@ -11,7 +11,9 @@ function fake_bin($s) {
 
 //codewars
 function fake_bin2(string $s): string {
-    //можно так ['/[0-4]/', '/[5-9]/'], ['0', '1'] или так
+    //можно так 
+    //return preg_replace(['/[0-4]/', '/[5-9]/'], ['0', '1']);
+    // или так
     return preg_replace(array('/[0-4]/', '/[5-9]/'), array('0', '1'), $s);
 }
 
