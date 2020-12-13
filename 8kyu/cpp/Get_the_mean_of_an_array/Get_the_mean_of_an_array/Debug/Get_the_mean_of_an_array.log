@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Server\data\htdocs\codewars\8kyu\cpp\Get_the_mean_of_an_array\Get_the_mean_of_an_array\main.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Server\data\htdocs\codewars\8kyu\cpp\Get_the_mean_of_an_array\Get_the_mean_of_an_array\main.cpp(9,6): warning C4101: number: неиспользованная локальная переменная
+  Get_the_mean_of_an_array.vcxproj -> C:\Server\data\htdocs\codewars\8kyu\cpp\Get_the_mean_of_an_array\Debug\Get_the_mean_of_an_array.exe
